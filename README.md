@@ -7,7 +7,7 @@ Trata-se de um conversor de moedas simples, que permite ao usuário converter va
 
 🔧 Funcionalidades
 
-Conversão entre diversas moedas (ex: BRL, USD, EUR e GBP )
+Conversão entre diversas moedas (ex: BRL, USD, EUR, GBP, ARS, BOB, CLP e COP)
 Integração com uma API de câmbio para obter as taxas em tempo real;
 Interface simples por terminal (console);
 Validação de entrada do usuário;
