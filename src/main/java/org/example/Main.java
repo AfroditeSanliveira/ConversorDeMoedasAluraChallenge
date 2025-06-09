@@ -13,9 +13,9 @@ import java.util.Set;
 import java.util.HashSet;
 
 public class Main {
-    //IMPORTANTE: SUBSTITUA "SUA_CHAVE_DE_API_AQUI" PELA CHAVE QUE VOCÊ OBTEVE NO SITE DA EXCHANGERATE-AP
+    //IMPORTANTE: SUBSTITUA "SUA_CHAVE_DE_API_AQUI" PELA CHAVE QUE VOCÊ OBTEVE NO SITE DA EXCHANGERATE-API
     private static final String API_KEY = "SUA-CHAVE-API"; // <<<<<<<<<<< COLOQUE SUA CHAVE AQUI >>>>>>>>>>>
-    private static final String API_BASE_URL = "https://v6.exchangerate-api.com/v6/";
+    private static final String API_BASE_URL = "https://www.exchangerate-api.com/";
 
     // Conjunto de moedas válidas para facilitar a validação
     private static final Set<String> MOEDAS_VALIDAS = new HashSet<>();
